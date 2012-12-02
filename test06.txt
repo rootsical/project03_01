@@ -1,1 +1,5 @@
 hello this is the sixth file
+adding this line is BIG STAGING MISTAKE
+
+i shouldn't have added the line above
+oh no!
