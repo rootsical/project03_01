@@ -6,3 +6,6 @@
 # *.zip ---> ignore all zip files
 
 file_to_ignore.txt
+
+#will not be ignore if already tracked
+ignore02.txt
