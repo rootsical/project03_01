@@ -1,0 +1,8 @@
+# this is a comment
+# *.php --->ignore all php files
+# !index.php --->do not ignore index.php
+# assets/videos/ --->ignores all files in videos directory
+# do not ignore this .gitignore file yo!
+# *.zip ---> ignore all zip files
+
+file_to_ignore.txt
