@@ -4,3 +4,6 @@
 4. lion
 5. picnic
 6. caramel
+7. shampoo
+8. soap
+9. toothpaste
