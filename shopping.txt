@@ -2,3 +2,5 @@
 2. bounty
 3. mars
 4. lion
+5. picnic
+6. caramel
